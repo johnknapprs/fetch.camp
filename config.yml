@@ -28,7 +28,8 @@ google_analytics_id:
 title: "fetch.camp"
 
 # Avatar image path
-avatar: "./images/profile.jpeg"
+# avatar: "./images/profile.jpeg"
+avatar: ''
 
 # Name section text
 name: "FETCH"
